@@ -1,0 +1,16 @@
+{
+    "subscrible": [
+        {
+            "name": "esp8266/arduino",
+            "from": "github",
+            "owner": "esp8266",
+            "repo": "Arduino"
+        },
+        {
+            "name": "expressif/arduino-esp32",
+            "from": "github",
+            "owner": "espressif",
+            "repo": "arduino-esp32"
+        }
+    ]
+}
